@@ -24,7 +24,7 @@ require (
 	github.com/martinhoefling/goxkcdpwgen v0.0.0-20190331205820-7dc3d102eca3
 	github.com/mattn/go-colorable v0.1.12
 	github.com/mattn/go-isatty v0.0.14
-	github.com/mattn/go-tty v0.0.3
+	github.com/mattn/go-tty v0.0.4
 	github.com/mitchellh/go-homedir v1.1.0
 	github.com/mitchellh/go-ps v1.0.0
 	github.com/muesli/crunchy v0.4.0
@@ -34,6 +34,7 @@ require (
 	github.com/stretchr/testify v1.7.0
 	github.com/urfave/cli/v2 v2.3.0
 	golang.org/x/crypto v0.0.0-20211215165025-cf75a172585e
+	golang.org/x/exp v0.0.0-20211216164055-b2b84827b756
 	golang.org/x/net v0.0.0-20211216030914-fe4d6282115f
 	golang.org/x/oauth2 v0.0.0-20211104180415-d3ed0bb246c8
 	golang.org/x/sys v0.0.0-20211216021012-1d35b9e2eb4e
@@ -54,7 +55,6 @@ require (
 	github.com/rogpeppe/go-internal v1.8.1-0.20210923151022-86f73c517451 // indirect
 	github.com/russross/blackfriday/v2 v2.1.0 // indirect
 	github.com/xrash/smetrics v0.0.0-20201216005158-039620a65673 // indirect
-	golang.org/x/exp v0.0.0-20211216164055-b2b84827b756 // indirect
 	google.golang.org/appengine v1.6.7 // indirect
 	google.golang.org/protobuf v1.27.1 // indirect
 	gopkg.in/check.v1 v1.0.0-20201130134442-10cb98267c6c // indirect
