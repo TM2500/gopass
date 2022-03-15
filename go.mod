@@ -33,7 +33,7 @@ require (
 	github.com/skip2/go-qrcode v0.0.0-20200617195104-da1b6568686e
 	github.com/stretchr/testify v1.7.0
 	github.com/twpayne/go-pinentry v0.2.0
-	github.com/urfave/cli/v2 v2.3.0
+	github.com/urfave/cli/v2 v2.4.0
 	golang.org/x/crypto v0.0.0-20211215165025-cf75a172585e
 	golang.org/x/exp v0.0.0-20211216164055-b2b84827b756
 	golang.org/x/net v0.0.0-20211216030914-fe4d6282115f
