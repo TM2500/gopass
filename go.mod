@@ -6,7 +6,7 @@ require (
 	filippo.io/age v1.3.2
 	github.com/ProtonMail/go-crypto v1.5.2
 	github.com/blang/semver/v4 v4.0.0
-	github.com/caspr-io/yamlpath v0.0.0-20200722075116-502e8d113a9b
+	github.com/caspr-io/yamlpath v0.0.1
 	github.com/cenkalti/backoff/v4 v4.3.0
 	github.com/creack/pty v1.1.24
 	github.com/dustin/go-humanize v1.1.0
